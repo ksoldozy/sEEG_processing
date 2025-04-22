@@ -8,6 +8,7 @@ channels_info_dir = '/Users/kamronsoldozy/Documents/PhD/ANALYSIS/DATA/MNI_FILES/
     
 # output dirs
 outdir_edfs = '/Users/kamronsoldozy/Documents/PhD/ANALYSIS/DATA/EDFs/',
+outdir_edfs_WIN = 'C:\\Users\\Kamron\\Documents\\PhD\\sEEG_processing\\DATA\\EDFs\\',
 outdir_epochs = '/Users/kamronsoldozy/Documents/PhD/ANALYSIS/SEEG_PREPROCESSING/EPOCHS',
 outdir_logging = '/Users/kamronsoldozy/Documents/PhD/ANALYSIS/SEEG_PREPROCESSING/LOGS',
     
