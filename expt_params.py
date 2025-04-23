@@ -9,9 +9,11 @@ channels_info_dir = '/Users/kamronsoldozy/Documents/PhD/ANALYSIS/DATA/MNI_FILES/
 # output dirs
 outdir_edfs = '/Volumes/TSoldozy/DATA/EDFs/',
 outdir = '/Volumes/TSoldozy/DATA/',
+outdir_win = 'f:\\DATA\\', 
 outdir_edfs_WIN = 'C:\\Users\\Kamron\\Documents\\PhD\\sEEG_processing\\DATA\\EDFs\\',
 outdir_epochs = '/Users/kamronsoldozy/Documents/PhD/ANALYSIS/SEEG_PREPROCESSING/EPOCHS',
 outdir_logging = '/Volumes/TSoldozy/LOGS/SEQNMF/',
+outdir_logging_win = 'f:\\LOGS', 
     
 electrode_space = "MNI",
 subjects_dir = '/Applications/freesurfer/7.4.1/subjects',
